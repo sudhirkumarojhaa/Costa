@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/sudhirkumarojhaa/Costa/static/js/main.9dfe286f.js",
-    "static/js/616.d69d3c9a.js": "/sudhirkumarojhaa/Costa/static/js/616.d69d3c9a.js",
-    "static/media/MaterialIcons.ttf": "/sudhirkumarojhaa/Costa/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
-    "static/media/Poppins-Light.ttf": "/sudhirkumarojhaa/Costa/static/media/Poppins-Light.25b96349cf564e8ba0dc.ttf",
-    "static/media/Poppins-Medium.ttf": "/sudhirkumarojhaa/Costa/static/media/Poppins-Medium.c5eb70982e90502d0d01.ttf",
-    "static/media/Poppins-Bold.ttf": "/sudhirkumarojhaa/Costa/static/media/Poppins-Bold.300a4da54f1e6258b6f7.ttf",
-    "static/media/Poppins-Black.ttf": "/sudhirkumarojhaa/Costa/static/media/Poppins-Black.c78fe16aec75b2fc38d0.ttf",
-    "static/media/Feather.ttf": "/sudhirkumarojhaa/Costa/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
-    "favicon.ico": "/sudhirkumarojhaa/Costa/favicon.ico",
-    "index.html": "/sudhirkumarojhaa/Costa/index.html",
-    "favicon-32.png": "/sudhirkumarojhaa/Costa/favicon-32.png",
-    "favicon-16.png": "/sudhirkumarojhaa/Costa/favicon-16.png",
-    "manifest.json": "/sudhirkumarojhaa/Costa/manifest.json",
-    "serve.json": "/sudhirkumarojhaa/Costa/serve.json",
-    "main.9dfe286f.js.map": "/sudhirkumarojhaa/Costa/static/js/main.9dfe286f.js.map",
-    "616.d69d3c9a.js.map": "/sudhirkumarojhaa/Costa/static/js/616.d69d3c9a.js.map"
+    "main.js": "/Costa/static/js/main.e7efc8b8.js",
+    "static/js/616.d69d3c9a.js": "/Costa/static/js/616.d69d3c9a.js",
+    "static/media/MaterialIcons.ttf": "/Costa/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/Poppins-Light.ttf": "/Costa/static/media/Poppins-Light.25b96349cf564e8ba0dc.ttf",
+    "static/media/Poppins-Medium.ttf": "/Costa/static/media/Poppins-Medium.c5eb70982e90502d0d01.ttf",
+    "static/media/Poppins-Bold.ttf": "/Costa/static/media/Poppins-Bold.300a4da54f1e6258b6f7.ttf",
+    "static/media/Poppins-Black.ttf": "/Costa/static/media/Poppins-Black.c78fe16aec75b2fc38d0.ttf",
+    "static/media/Feather.ttf": "/Costa/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "favicon.ico": "/Costa/favicon.ico",
+    "index.html": "/Costa/index.html",
+    "favicon-32.png": "/Costa/favicon-32.png",
+    "favicon-16.png": "/Costa/favicon-16.png",
+    "manifest.json": "/Costa/manifest.json",
+    "serve.json": "/Costa/serve.json",
+    "main.e7efc8b8.js.map": "/Costa/static/js/main.e7efc8b8.js.map",
+    "616.d69d3c9a.js.map": "/Costa/static/js/616.d69d3c9a.js.map"
   },
   "entrypoints": [
     "static/js/616.d69d3c9a.js",
-    "static/js/main.9dfe286f.js"
+    "static/js/main.e7efc8b8.js"
   ]
 }

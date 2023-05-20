@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Costa",
-    "slug": "Costa",
+    "name": "Petro",
+    "slug": "Petro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.costa"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "285166e4-b404-4288-b451-b326d60c5648"
+      }
     }
   }
 }
